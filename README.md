@@ -5,7 +5,8 @@
 
 - DLT Helm charts have to be deployed on the SAME NODE of the cluster
 - Broker chaincode will be deployed with the current helm cart.
-- This is a quick README, a more fomal will be created.
+- This is a quick README, a more analytical one can be found at
+https://assist-iot-enablers-documentation.readthedocs.io/en/latest/verticals/dlt/distributed_broker_enabler.html.
 - For more information contact: tzionasev@iti.gr
 
 ## Installation instructions
