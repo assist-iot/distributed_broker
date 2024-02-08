@@ -1,6 +1,6 @@
 apiVersion: v2
 name: dltbroker
-description: A Helm chart for Kubernetes
+description: ASSIST-IoT Distributed broker enabler
 
 # A chart can be either an 'application' or a 'library' chart.
 #
